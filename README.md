@@ -53,7 +53,7 @@ pkg install python -y
 
 ---
 
-💡 Example Usage
+## 💡 Example Usage
 
 $ python3 commandmaster.py
 
@@ -77,7 +77,7 @@ Hello, nabin
 
 ---
 
-🧾 Data Storage
+## 🧾 Data Storage
 
 Shell Config File:
 Stores your command as an alias or function.
@@ -89,7 +89,7 @@ History File:
 
 ---
 
-📘 About
+## 📘 About
 
 Developer: Nabin Sharma
 Website: www.nabinsharma329.com.np
@@ -100,7 +100,7 @@ License: MIT License
 
 ---
 
-🛠️ Future Improvements
+## 🛠️ Future Improvements
 
 Add global command sharing (export/import).
 
@@ -112,7 +112,7 @@ Auto-sync feature between devices.
 
 ---
 
-❤️ Contributing
+## ❤️ Contributing
 
 Pull requests are welcome!
 If you’d like to improve this tool, fix a bug, or add new features, please fork the repository and submit a PR.
@@ -120,7 +120,7 @@ If you’d like to improve this tool, fix a bug, or add new features, please for
 
 ---
 
-🧾 License
+## 🧾 License
 
 This project is licensed under the MIT License — feel free to use and modify it as you like.
 
